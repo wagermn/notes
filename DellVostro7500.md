@@ -1,5 +1,9 @@
 # Dell Vostro 7500
 
+## 安装 Ubuntu 注意事项
+
+* 确保 BIOS 设为 UEFI， 禁用 Legacy Option ROMS 和 Secure Boot.
+
 ## 分区情况
 
 | 分区 | 大小 | 挂载点 |

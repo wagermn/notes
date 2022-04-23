@@ -3,6 +3,12 @@
 ## install
 ```bash
 sudo apt install git
+sudo apt install imagemagick pdftk
+```
+
+## 驱动问题
+```bash
+sudo ubuntu-drivers autoinstall
 ```
 
 ## Xournal++

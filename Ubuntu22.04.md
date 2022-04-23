@@ -11,6 +11,10 @@ sudo apt install p7zip-full p7zip-rar unar
 ```bash
 sudo ubuntu-drivers autoinstall
 ```
+## 手机
+```bash
+sudo apt install scrcpy
+```
 
 ## Other 
 

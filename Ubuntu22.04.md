@@ -36,11 +36,14 @@ sudo snap install scrcpy
 
 ```bash
 sudo snap install vlc
-sudo snap install vscode
+# sudo snap install code
 sudo snap install gimp
 sudo snap install obs-studio
 sudo snap install xournalpp
 ```
+### vscode 
+should install deb version from [here](https://code.visualstudio.com/docs/?dv=linux64_deb), 
+since the snap version has [bug with input chinese](https://dev.to/dance2die/ubuntu-ibus-not-working-on-visual-studio-code-1m37).
 
 ### Some post install
 ```bash

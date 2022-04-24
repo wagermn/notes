@@ -1,5 +1,13 @@
 # Ubuntu 22.04 安装日记
 
+## 软件源
+
+```bash
+sudo add-apt-repository universe
+sudo add-apt-repository multiverse
+sudo apt update
+```
+
 ## install
 ```bash
 sudo apt install git
@@ -12,9 +20,17 @@ sudo apt install p7zip-full p7zip-rar unar
 sudo ubuntu-drivers autoinstall
 ```
 ## 手机
+
+### [GSConnect](https://www.omgubuntu.co.uk/2018/11/connect-android-ubuntu-gsconnect)
+```bash
+sudo apt install gnome-shell-extension
+```
+
+### [Scrcpy](https://github.com/Genymobile/scrcpy)
 ```bash
 sudo snap install scrcpy
 ```
+
 
 ## Other 
 

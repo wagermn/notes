@@ -13,7 +13,7 @@ sudo ubuntu-drivers autoinstall
 ```
 ## 手机
 ```bash
-sudo apt install scrcpy
+sudo snap install scrcpy
 ```
 
 ## Other 

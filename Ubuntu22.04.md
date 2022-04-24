@@ -35,8 +35,9 @@ sudo snap install scrcpy
 ## Other 
 
 ```bash
-sudo snap install vlc
+# sudo snap install vlc
 # sudo snap install code
+sudo apt  install vlc
 sudo snap install gimp
 sudo snap install obs-studio
 sudo snap install xournalpp

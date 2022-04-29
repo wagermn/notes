@@ -8,10 +8,10 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-Name=MATLAB
-Exec=/opt/MATLAB/R2020b/bin/matlab
-Icon=/opt/MATLAB/R2020b/resources/coreui/matlab/splash.png
-Terminal=false
+Name=MATLAB R2022a
+Comment=The Language of Technical Computing
+Exec=matlab -desktop
+Icon=/opt/MATLAB/R2022a/resources/coreui/matlab/splash.png
 ```
 2. save it to `/usr/share/applications`.
 

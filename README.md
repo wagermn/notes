@@ -1,2 +1,4 @@
-# notes
-my notes on ubuntu
+# Notes
+my notes
+
+* [GitHub Flavored Markdown](https://github.github.com/gfm/)

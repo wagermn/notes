@@ -1,0 +1,10 @@
+
+## png无损优化
+```
+sudo apt install pngquant
+```
+
+## svg优化
+```
+sudo apt install svgo
+```
